@@ -12,4 +12,4 @@ Benefit of using this framework.
    
 4. User only need to create a file named as conf.json in the working directory that contains required information to establish connection with the database.
 
-
+For more details, please refer to the ORMFramework.pdf file.
